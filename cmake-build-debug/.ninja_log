@@ -1,0 +1,4 @@
+# ninja log v5
+0	1309	1688044194647345650	CMakeFiles/Practice.dir/main.cpp.o	5168935f9e12f82f
+1	1313	1688044194647337108	CMakeFiles/Practice.dir/addition/add.cpp.o	b349b76579064951
+2	1314	1688044194647347316	CMakeFiles/Practice.dir/addition/sub.cpp.o	b9e5e798dfa7b19
